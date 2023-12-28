@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRainbowSchoolDatabase", "WebAppRainbowSchoolDatabase\WebAppRainbowSchoolDatabase.csproj", "{8522897A-6403-487C-8C1A-12E032217B4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8522897A-6403-487C-8C1A-12E032217B4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8522897A-6403-487C-8C1A-12E032217B4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8522897A-6403-487C-8C1A-12E032217B4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8522897A-6403-487C-8C1A-12E032217B4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {430BFA22-7BF1-4925-AE2B-C02CD618FF0D}
+	EndGlobalSection
+EndGlobal
